@@ -1,0 +1,2 @@
+# rabbitMQLearn
+关于rabbitmq实战指南这本书的实例写这里
